@@ -1,0 +1,3 @@
+# Ignorar todo lo que viene despues de la carpeta
+salida/*.txt
+node_modules/
